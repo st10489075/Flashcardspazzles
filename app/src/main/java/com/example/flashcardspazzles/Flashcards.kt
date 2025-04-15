@@ -25,6 +25,7 @@ class Flashcards : ComponentActivity() {
 
                 Button(
                     onClick = {
+                        
                         //Run when  button clicked
                         val next = Intent(this@Flashcards, MainActivity::class.java)
                         startActivity(next)
