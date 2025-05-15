@@ -13,6 +13,11 @@
         android:theme="@style/Theme.FlashcardsPazzles"
         tools:targetApi="31">
         <activity
+            android:name=".ReviewThePuzzels"
+            android:exported="false"
+            android:label="@string/title_activity_review_the_puzzels"
+            android:theme="@style/Theme.FlashcardsPazzles" />
+        <activity
             android:name=".ScoreDisplay"
             android:exported="false"
             android:label="@string/title_activity_score_display"

@@ -2,4 +2,5 @@
     <string name="app_name">Flashcards pazzles</string>
     <string name="title_activity_flashcards">Flashcards</string>
     <string name="title_activity_score_display">ScoreDisplay</string>
+    <string name="title_activity_review_the_puzzels">ReviewThePuzzels</string>
 </resources>

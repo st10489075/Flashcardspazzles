@@ -48,7 +48,6 @@ class Flashcards : ComponentActivity() {
                 mutableStateOf ( "")
             }
 
-           
 
 
 
